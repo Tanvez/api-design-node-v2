@@ -35,5 +35,19 @@
     "start-server-webpack-plugin": "^2.2.0",
     "webpack": "^3.6.0",
     "webpack-node-externals": "^1.6.0"
-  }
+  },
+  "description": "> Learn to build with Node, Express, Mongo, and GraphQL",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanvez/api-design-node-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Tanvez/api-design-node-v2/issues"
+  },
+  "homepage": "https://github.com/Tanvez/api-design-node-v2#readme"
 }
